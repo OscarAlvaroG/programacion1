@@ -1,10 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+4) Escribir un programa que realice las siguientes acciones:
+    •   Limpie la pantalla
+    •   Declare 2 variables y les asigne sendos valores
+    •   Realice la resta de dichas variables y muestre por pantalla la leyenda "Resultado positivo" en caso de ser mayor que cero o "Resultado negativo" si es menor que cero
+*/
 
 int main(int argc, char *argv[]) {
     system("cls"); //limpio pantalla
-
+    
     int contador = 0;
     int numero;
     int c_negativos = 0;

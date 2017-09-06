@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504706048 source:c:\users\alumno\desktop\prog1\cadena_caracteres\enclase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
